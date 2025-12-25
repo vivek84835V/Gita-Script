@@ -1,4 +1,4 @@
-# Bhagavad Gita Translations and Commentary Dataset
+# Bhagavad Gita Dataset
 
 <p align="center"><img alt="Bhagavad Gita API" src="image/gita.jpg" width="400vw"/></p>
 
