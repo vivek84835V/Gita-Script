@@ -8,30 +8,26 @@ This dataset compiles translations and commentaries of the Bhagavad Gita, an anc
 
 The dataset includes translations and commentaries in different languages, such as Sanskrit, Hindi, English, and more. It features the insights and interpretations of renowned authors and scholars who have contributed to the understanding of the Bhagavad Gita's teachings. The dataset encompasses multiple dimensions of the scripture, including translations, transliterations, commentaries, and explanations.
 
-**Featured Authors:**
+**Aadyay Titles:**
 
-- Swami Tejomayananda
-- Swami Sivananda
-- Shri Purohit Swami
-- Swami Chinmayananda
-- Dr. S. Sankaranarayan
-- Swami Adidevananda
-- Swami Gambirananda
-- Shri Madhavacharya
-- Shri Anandgiri
-- Swami Ramsukhdas
-- Shri Ramanuja
-- Shri Abhinav Gupta
-- Shri Shankaracharya
-- Shri Jayatritha
-- Shri Vallabhacharya
-- Shri M. Saraswati
-- Shri Shridhara Swami
-- Shri Dhanpati
-- Vedantadeshika
-- Shri Purushottamji
-- Shri Neelkanth
-- A.C. Bhaktivedanta Swami Prabhupada
+- Arjuna Vishada Yoga – The Yoga of Arjuna’s Dejection 
+- Sankhya Yoga – The Yoga of Analysis 
+- Karma Yoga – The Yoga of Action 
+- Jnana Yoga – The Yoga of Knowledge 
+- Karma Sanyasa Yoga – The Yoga of Renunciation of Action 
+- Dhyana Yoga – The Yoga of Meditation 
+- Vijnana Yoga – The Yoga of Wisdom 
+- Akshara Parabrahma Yoga – The Yoga of the Imperishable Absolute 
+- Raja Vidya Yoga – The Yoga of Royal Knowledge 
+- Vibhuti Yoga – The Yoga of Divine Glories 
+- Vishwarupa Sandarshana Yoga – The Yoga of the Vision of the Universal Form 
+- Bhakti Yoga – The Yoga of Devotion 
+- Kshetra Kshetrajna Vibhaga Yoga – The Yoga of Distinction Between Field and Knower of Field 
+- Guna Traya Vibhaga Yoga – The Yoga of the Division of the Three Gunas 
+- Purushottama Yoga – The Yoga of the Supreme Person 
+- Daivasura Sampad Vibhaga Yoga – The Yoga of the Division Between Divine and Demoniac Traits 
+- shraddha Traya Vibhaga Yoga – The Yoga of the Threefold Faith 
+- Moksha Sanyasa Yoga – The Yoga of Liberation by Renunciation
 
 **API Source Code:**
 
